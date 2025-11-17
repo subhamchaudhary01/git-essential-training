@@ -1,0 +1,1 @@
+This is the content to be added in staging area.
